@@ -1,0 +1,53 @@
+{
+ "kind": "FileDocument",
+ "id": "Mair_et_al_CellRanger.zip",
+ "isDeleted": false,
+ "rev": "",
+ "description": "Data from Mair et al. (2020), PBMC scRNAseq",
+ "name": "Mair_et_al_CellRanger.zip",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [
+  "scRNAseq",
+  "omics",
+  "PBMC",
+  "cell ranger"
+ ],
+ "meta": [
+  {
+   "kind": "Pair",
+   "key": "PUBLISHED",
+   "value": "true"
+  }
+ ],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "",
+ "dataUri": "lfs/74/14/63d2e794c9f5736d7fdc8584af193ed1a7ce1c57e557414a5ec9b7353648",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 8791408
+}
